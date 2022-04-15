@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Sudoku Prime](https://github.com/MahdeenSky/SudokuPrime)
+- 🔭 I’m currently working on **A Twitch Farming Bot**
 
 - 🌱 I’m currently learning **Java**
 
