@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **A Twitch Farming Bot**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Python, Typescript, and Rust Projects**
 
