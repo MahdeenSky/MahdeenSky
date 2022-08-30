@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **(𝕸𝖆𝖍𝖉𝖊𝖊𝖓𝕾𝖐𝖞 - Σ♂) on Discord**
+- 📫 How to reach me **(𝕸𝖆𝖍𝖉𝖊𝖊𝖓𝕾𝖐𝖞 - Σ♂#0850) on Discord**
 
 - ⚡ Fun fact **A bad habit of mine is that I blurt out whatever is on my mind, and let the realization hit later.**
 <br>
