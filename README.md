@@ -5,7 +5,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdeensky&label=Profile%20views&color=0e75b6&style=flat" alt="mahdeensky" /> </p> -->
 <br>
-<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 - 🔭 I’m currently working on **A Twitch Farming Bot**
@@ -27,6 +26,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdeensky&show_icons=true&locale=en&layout=compact" alt="mahdeensky" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdeensky&show_icons=true&locale=en&theme=radical" alt="mahdeensky" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdeensky&show_icons=true&locale=en&theme=radical" alt="mahdeensky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdeensky&theme=radical" alt="mahdeensky" /></p>
