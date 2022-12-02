@@ -7,13 +7,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **A Twitch Farming Bot**
+- 🔭 I’m currently working on **Fork of Stable Diffusion**
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Python, Typescript, and Rust Projects**
-
-- 🤝 I’m looking for help with **3D Modeling, and Visualizations in Unity**
+- 🌱 I’m currently learning **Deep Reinforcement Learning**
 
 - 💬 Ask me about **anything**
 
