@@ -7,7 +7,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **Fork of Stable Diffusion**
+- 🔭 I’m currently working on **a Fork of Stable Diffusion**
 
 - 🌱 I’m currently learning **Deep Reinforcement Learning**
 
