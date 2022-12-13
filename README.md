@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **(𝕸𝖆𝖍𝖉𝖊𝖊𝖓𝕾𝖐𝖞#0850) on Discord**
-
 - ⚡ Fun fact **I enjoy working out at the gym, and meeting new people!**
 <br>
 <h3 align="left">Languages and Tools:</h3>
