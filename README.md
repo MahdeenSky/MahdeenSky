@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a Fork of Stable Diffusion**
 
-- 🌱 I’m currently learning **Deep Reinforcement Learning**
+- 🌱 I’m currently learning **Unity**
 
 - 💬 Ask me about **anything**
 
