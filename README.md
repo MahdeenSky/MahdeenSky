@@ -1,5 +1,5 @@
 
-<img align="left" width="250" alt="dhhruv" src="introd.jpg" />
+<img align="left" width="200" alt="dhhruv" src="introd.jpg" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&vCenter=true&multiline=true&width=625&height=150&lines=Mahdeen+I.;Avid+Programmar+%7C+Undergraduate+Student+%7C+Software+Developer;Full+Stack+Development+%7C+Machine+Learning+%7C+Bots" alt="Typing SVG" /></a>
 
