@@ -1,5 +1,5 @@
 
-<img align="left" width="180" height="180" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
+<img align="left" width="250" alt="dhhruv" src="introd.jpg" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&vCenter=true&multiline=true&width=625&height=150&lines=Mahdeen+I.;Avid+Programmar+%7C+Undergraduate+Student+%7C+Software+Developer;Full+Stack+Development+%7C+Machine+Learning+%7C+Bots" alt="Typing SVG" /></a>
 
