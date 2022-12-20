@@ -5,8 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdeensky&label=Profile%20views&color=0e75b6&style=flat" alt="mahdeensky" /> </p> -->
 <br>
-
-
+  
 - 🔭 I’m currently working on **a Fork of Stable Diffusion**
 
 - 🌱 I’m currently learning **Unity**
@@ -14,12 +13,14 @@
 - 💬 Ask me about **anything**
 
 - ⚡ Fun fact **I enjoy working out at the gym, and meeting new people!**
+
 <br>
 
 <img src="contributions.svg" />
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdeensky&show_icons=true&locale=en&layout=compact" alt="mahdeensky" /></p> -->
 
-<img align="left" width="485" src="https://github-readme-stats.vercel.app/api?username=mahdeensky&show_icons=true&locale=en&theme=radical" alt="mahdeensky" />
-
-<img align="right" width="485" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdeensky&theme=radical" alt="mahdeensky" />
+<p>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mahdeensky&show_icons=true&locale=en&theme=radical" alt="mahdeensky" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdeensky&theme=radical" alt="mahdeensky" />
+</p>
