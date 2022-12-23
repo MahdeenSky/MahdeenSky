@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **My profile picture was generated through Stable Diffusion using an Embedding that I trained with my photos!**
+- ⚡ Fun fact **My pfp was generated with Stable Diffusion trained with my Photos!**
 
 <br>
 
