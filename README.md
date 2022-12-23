@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **I enjoy working out at the gym, and meeting new people!**
+- ⚡ Fun fact **My profile picture was generated through Stable Diffusion using an Embedding that I trained with my photos!**
 
 <br>
 
