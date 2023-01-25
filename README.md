@@ -1,7 +1,7 @@
 <img width="100%" src="Welcome.svg" />
 <img align="left" width="20%" alt="dhhruv" src="introd.jpg" />
 
-<a href="https://git.io/typing-svg"><img width="70%" src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&vCenter=true&multiline=true&width=625&height=150&lines=Mahdeen+I.;Avid+Programmar+%7C+Undergraduate+Student+%7C+Software+Developer;Full+Stack+Development+%7C+Machine+Learning+%7C+Bots" alt="Typing SVG" /></a>
+<img width="70%" src="animatedText.svg" alt="Typing SVG" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdeensky&label=Profile%20views&color=0e75b6&style=flat" alt="mahdeensky" /> </p> -->
 
