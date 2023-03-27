@@ -21,6 +21,10 @@
 <p align="center">
   <img width="42.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahdeensky&show_icons=true&locale=en&theme=radical" alt="mahdeensky" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdeensky&theme=radical" alt="mahdeensky" />
-  <img src="contributions.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahdeenSky/MahdeenSky/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahdeenSky/MahdeenSky/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </p>
 
