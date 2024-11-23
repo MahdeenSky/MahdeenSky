@@ -7,7 +7,7 @@
 
 > - 🔭 I’m currently working on **Godot** because Unity is too heavy for my Mac...
 >
-> - 🌱 I’m currently learning **3D Development in Godot**
+> - 🌱 I’m currently learning **2D Game Development in Godot**
 >
 > - 💬 Ask me about **anything**
 >
