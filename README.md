@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdeensky&label=Profile%20views&color=0e75b6&style=flat" alt="mahdeensky" /> </p> -->
 
-> - 🔭 I’m currently working on **Godot** because Unity is too heavy for my Mac...
+> - 🔭 I’m currently working on getting a Job hahaha...
 >
 > - 🌱 I’m currently learning **2D Game Development in Godot**
 >
