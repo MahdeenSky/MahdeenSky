@@ -11,7 +11,7 @@
 >
 > - 💬 Ask me about **anything**
 >
-> - ⚡ Fun fact **My profile picture was generated with Stable Diffusion trained with my Photos!**
+> - ⚡ Fun fact **I do digital art on the side, and one of my pieces actually got more than 10k likes on twitter!**
 
 
 <br>
